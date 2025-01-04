@@ -1,4 +1,4 @@
-module github.com/razonyang/hugo-theme-bootstrap-skeleton
+module github.com/project-polymorph/hugo-template-starter
 
 go 1.18
 

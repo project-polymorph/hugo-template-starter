@@ -1,8 +1,8 @@
-baseURL: https://hbs-skeleton.netlify.app/
+baseURL: https://project-polymorph.github.io/hugo-template-starter/
 title: Hugo Bootstrap Skeleton
 copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
 defaultContentLanguage: en
-# hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
+hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 # defaultContentLanguageInSubdir: true
 # disableLanguages:
 #  - fr
