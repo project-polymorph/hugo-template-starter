@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://projects.razonyang.com/hugo-theme-bootstrap-skeleton/sitemap.xml
+Sitemap: https://project-polymorph.github.io/hugo-template-starter/sitemap.xml

@@ -1,6 +1,6 @@
 (() => {
   // ns-hugo-params:/tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/razonyang/hugo-theme-bootstrap@v1.7.2/assets/js/local-storage/index.ts
-  var local_storage_default = { baseURL: "https://projects.razonyang.com/hugo-theme-bootstrap-skeleton/" };
+  var local_storage_default = { baseURL: "https://project-polymorph.github.io/hugo-template-starter/" };
 
   // ns-hugo-imp:/tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/razonyang/hugo-theme-bootstrap@v1.7.2/assets/js/local-storage/index.ts
   var PathLocalStorage = class {
